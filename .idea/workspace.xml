@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe8e22d-e6b1-4481-8e51-dc02b6ae5d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InteractivePercolationVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Percolation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PercolationStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PercolationVisualizer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals8.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +35,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/jsan/Documents/coursera/algorithms-1/lectures/percolation",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jsan/Documents/coursera/algorithms-1/lectures/percolation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="cla - HelloGoodbye" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
       <module name="algorithms-i" />
       <option name="PROGRAM_PARAMETERS" value="Alejandra Bahati" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cla - PercolationStats 200 100" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="algorithms-i" />
+      <option name="PROGRAM_PARAMETERS" value="200 100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cla - PercolationVisualizer input50.txt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="algorithms-i" />
+      <option name="PROGRAM_PARAMETERS" value="$ContentRoot$/data/input50.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cla - PercolationVisualizer input6.txt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="algorithms-i" />
+      <option name="PROGRAM_PARAMETERS" value="$ContentRoot$/data/input6.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cla - PercolationVisualizer princeton96.txt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="algorithms-i" />
+      <option name="PROGRAM_PARAMETERS" value="$ContentRoot$/data/princeton96.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,6 +98,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.cla - RandomWord" />
+      <item itemvalue="Application.cla - PercolationVisualizer input6.txt" />
+      <item itemvalue="Application.cla - PercolationVisualizer input50.txt" />
+      <item itemvalue="Application.cla - PercolationVisualizer princeton96.txt" />
+      <item itemvalue="Application.cla - PercolationStats 200 100" />
       <item itemvalue="Application.cla - HelloGoodbye" />
     </list>
   </component>
