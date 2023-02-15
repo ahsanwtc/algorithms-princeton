@@ -18,9 +18,9 @@ you can sort the $n$ integers in time proportional to $n^2$ or better.
 An array is bitonic if it comprises an increasing sequence of integers followed immediately by a decreasing sequence of 
 integers. Write a program that, given a bitonic array of $n$ distinct integer values, determines whether a given 
 integer is in the array.
- - Standard version: Use $\sim 3 log{}{n}$
- - Signing bonus: Use $\sim 2 log{}{n}$ compares in the worst case (and prove that no algorithm can guarantee to perform 
-   fewer than $\sim 2 log{}{n}$ compares in the worst case).
+ - Standard version: Use $\sim 3 log{} {n}$
+ - Signing bonus: Use $\sim 2 log{} {n}$ compares in the worst case (and prove that no algorithm can guarantee to perform 
+   fewer than $\sim 2 log{} {n}$ compares in the worst case).
 
 ### 3. Egg drop
 Suppose that you have an $n-story$ building (with floors $1$ through $n$) and plenty of eggs. An egg breaks if it is 
