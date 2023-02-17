@@ -59,3 +59,6 @@ of $T$ given the following limitations on the number of eggs and tosses:
   tosses.
 - Version 4: $1 + 2 + 3 + … + t$ $\sim$ $\frac{1}{2}t^2$. Aim for $c = 2\sqrt{2}$.
 
+![egg drop notes](./images/egg-problem-1.jpg)
+
+![egg drop notes](./images/egg-problem-2.jpg)
