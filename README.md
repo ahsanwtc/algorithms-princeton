@@ -62,3 +62,25 @@ of $T$ given the following limitations on the number of eggs and tosses:
 ![egg drop notes](./images/egg-problem-1.jpg)
 
 ![egg drop notes](./images/egg-problem-2.jpg)
+
+## Stacks and Queues
+
+### 1. Queue with two stacks
+
+Implement a queue with two stacks so that each queue operations takes a constant amortized number of stack operations.
+
+#### Hint: 
+
+If you push elements onto a stack and then pop them all, they appear in reverse order. If you repeat this process, 
+they're now back in order.
+
+![egg drop notes](./images/queuqe-with-two-stacks.jpg)
+
+### 2. Stack with max
+
+Create a data structure that efficiently supports the stack operations (push and pop) and also a return-the-maximum 
+operation. Assume the elements are real numbers so that you can compare them.
+
+#### Hint:
+
+Use two stacks, one to store all of the items and a second stack to store the maximums.
