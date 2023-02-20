@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe8e22d-e6b1-4481-8e51-dc02b6ae5d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RandomizedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RandomizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomizedQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.cla - Permutation 3 distinct.txt">
     <configuration name="cla - HelloGoodbye" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
       <module name="algorithms-i" />
@@ -85,6 +86,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cla - Permutation 3 distinct.txt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="algorithms-i" />
+      <option name="PROGRAM_PARAMETERS" value="3 $ContentRoot$/data/distinct.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="cla - RandomWord" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="RandomWord" />
       <module name="algorithms-i" />
@@ -94,6 +103,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.cla - Permutation 3 distinct.txt" />
       <item itemvalue="Application.cla - RandomWord" />
       <item itemvalue="Application.cla - PercolationVisualizer input6.txt" />
       <item itemvalue="Application.cla - PercolationVisualizer input50.txt" />

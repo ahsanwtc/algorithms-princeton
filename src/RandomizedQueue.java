@@ -194,6 +194,18 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
     }
     System.out.println();
 
+    System.out.println("-------------------------------");
+
+    int n = 5;
+    RandomizedQueue<Integer> rqueue = new RandomizedQueue<Integer>();
+    for (int i = 0; i < n; i++)
+      rqueue.enqueue(i);
+    for (int a : rqueue) {
+      for (int b : rqueue)
+        System.out.print(a + "-" + b + " ");
+      System.out.println();
+    }
+
   }
 
 }
