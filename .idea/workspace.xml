@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe8e22d-e6b1-4481-8e51-dc02b6ae5d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomizedQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
