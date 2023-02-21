@@ -83,4 +83,18 @@ operation. Assume the elements are real numbers so that you can compare them.
 
 #### Hint:
 
-Use two stacks, one to store all of the items and a second stack to store the maximums.
+Use two stacks, one to store all the items and a second stack to store the maximums.
+
+## Elementary Sorts
+
+### 1. Intersection of two sets
+
+Given two arrays $a[]$ and $b[]$, each containing $n$ distinct 2D points in the plane, design a sub-quadratic 
+algorithm to count the number of points that are contained both in array $a[]$ and array $b[]$.
+
+
+### 2. Permutation
+
+Given two integer arrays of size $n$, design a sub-quadratic algorithm to determine whether one is a permutation of the 
+other. That is, do they contain exactly the same entries but, possibly, in a different order.
+
